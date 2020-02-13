@@ -1,5 +1,5 @@
 # DO NOT EDIT: created by update.sh from Dockerfile-alpine.template
-FROM php:7.3-fpm-alpine3.10
+FROM php:7.2-fpm-alpine3.10
 
 ENV NGINX_VERSION 1.17.8
 ENV NJS_VERSION   0.3.8
