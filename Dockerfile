@@ -191,7 +191,8 @@ RUN set -ex; \
         opcache \
         pcntl \
         pdo_mysql \
-#        pdo_pgsql \
+        pdo_pgsql \
+        mysqli \
         zip \
         gmp \
     ; \
